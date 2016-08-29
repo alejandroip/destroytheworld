@@ -13,6 +13,6 @@ Más texto normal.
 
 Más todavía texto normal.
 
-# Esto tiene 1 sharps
+# Esto tiene 1 sharp
 
 Incluso más texto normal.
